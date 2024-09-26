@@ -46,11 +46,10 @@ This project is a casino web application built using React, TypeScript, and Vite
 
 ## Installation
 
-1. C;one the respository:
+1. Clone the respository:
     ```
-    git clone https://github.com/rubenmonterogonzalez/kanon.git
-    cd kanon
-    cd front-end
+    git clone https://github.com/rubenmonterogonzalez/kanon-casino-app-front-end.git
+    cd kanon-casino-app-front-end
     ```
 2. Install dependencies:
     `npm install`
